@@ -7,6 +7,8 @@
 // @match        https://legacy.hackerexperience.com/*
 // @match        https://en.hackerexperience.com/*
 // @match        https://br.hackerexperience.com/*
+// @updateURL    https://gitcdn.xyz/repo/JvanMerle/hacker-experience-tools-helper/master/HEToolsHelper.meta.js
+// @downloadURL  https://gitcdn.xyz/repo/JvanMerle/hacker-experience-tools-helper/master/HEToolsHelper.user.js
 // @grant        none
 // ==/UserScript==
 
