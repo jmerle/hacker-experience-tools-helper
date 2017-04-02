@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         HETools Helper
 // @namespace    HEToolsHelper
-// @version      1.3.0
+// @version      1.3.1
 // @description  A small script that enables you to sync your Hacker Experience HDB with HETools
 // @author       Jasper van Merle
 // @match        https://legacy.hackerexperience.com/*
@@ -12,7 +12,7 @@
 // @grant        none
 // ==/UserScript==
 
-const ISP_IP = '195.153.108.51';
+const ISP_IP = '1.158.201.174';
 
 var HEToolsHelper = {};
 
